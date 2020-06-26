@@ -1,0 +1,1 @@
+This scrapes the HackerNews website and returns the articles with over 100 votes from the first and second page.
